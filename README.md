@@ -13,3 +13,5 @@ Fundamentals of Data Mining Project
 how the model understands the data and how each feature influences the model's output. They are Feature importance, Permutation Feature importance and Partial Dependancy plots
 
 Libraries -: scikit-learn, pandas, numpy, seaborn, matplotlib, streamlit
+
+Deployment link -: https://automobile-loan-default-prediction-system-xujqfzrxxmbapkvhz3hu.streamlit.app/
